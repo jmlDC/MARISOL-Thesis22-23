@@ -7,5 +7,4 @@ by Dela Cruz, JML
 3. dataset folder comprised of the dataset used by the study.
 4. prediction folder contitute the prediction/inference made by Models trained only using MFC for SBP conference.
 
-For any concerns, please contact luis.delac2000@gmail.com
 
